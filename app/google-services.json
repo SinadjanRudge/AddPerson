@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "799916533270",
+    "firebase_url": "https://signup-login-firebase-687d2-default-rtdb.firebaseio.com",
+    "project_id": "signup-login-firebase-687d2",
+    "storage_bucket": "signup-login-firebase-687d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799916533270:android:7f88536b346e91d3643737",
+        "android_client_info": {
+          "package_name": "com.example.addperson"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpCaxZn75Q9tziqTA-tbJqsIxWfKOVJc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799916533270:android:204c67ec47aa6cc0643737",
+        "android_client_info": {
+          "package_name": "com.example.eyesentry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpCaxZn75Q9tziqTA-tbJqsIxWfKOVJc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
